@@ -1,0 +1,9 @@
+{"version":1,"sembast":1}
+{"key":"version","value":1}
+{"key":"stores","value":["users"]}
+{"key":"store_users","value":{"name":"users","autoIncrement":true,"indecies":[{"name":"categoryId","keyPath":"categoryId"},{"name":"last_name","keyPath":"last_name"},{"name":"last_name_categoryId_venueId","keyPath":["last_name","categoryId","venue_id"]},{"name":"venue_id","keyPath":"venue_id"}]}}
+{"key":1,"store":"users","value":{"name":"John","last_name":"Smith","categoryId":10,"venue_id":61}}
+{"key":2,"store":"users","value":{"name":"Emma","last_name":"Johnson","categoryId":10,"venue_id":62}}
+{"key":3,"store":"users","value":{"name":"Michael","last_name":"Williams","categoryId":11,"venue_id":61}}
+{"key":4,"store":"users","value":{"name":"Olivia","last_name":"Brown","categoryId":10,"venue_id":63}}
+{"key":5,"store":"users","value":{"name":"William","last_name":"Jones","categoryId":12,"venue_id":64}}
